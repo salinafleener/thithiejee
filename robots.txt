@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahsheinoh.matthewishii.com/sitemap.xml
